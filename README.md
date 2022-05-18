@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YSErcikan
-- 👀 I’m interested in engineering and programming and philosophy
+- 👀 I’m interested in engineering and programming
 - 🌱 I’m currently learning electronical engineering
 - 💞️ I’m looking to collaborate on sarpcorp
 - 📫 How to reach me << yavuzselimercikan@gmail.com >>
